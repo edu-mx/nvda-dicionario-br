@@ -1,3 +1,41 @@
-﻿#Regex para pegar números do wp desktop
+﻿#Regex para ocultar números do Whatsapp desktop
 \+\d{1,3}\s?\d{2,3}\s?\d{1,5}(?:\s?\d{1,5}){1,4}(?:-\d{4})?		0	1
 Copilot	copáilott	0	2
+Security	cekíwriti	0	0
+Insights	ensáitss	0	0
+settings	sédens	0	0
+public	pã blic	0	2
+github	guit râb	0	0
+branch	brêntch	0	0
+code	côud	0	2
+vscode	Vs côud	0	2
+files	fáiows	0	0
+by	bai	0	2
+BI	Bi ái	0	0
+CEO	ci hi ou	1	2
+type	táip	0	0
+python	páiton	0	2
+search	sârtch	0	0
+new	niu	0	0
+actions	ékchans	0	0
+projects	pródjectss	0	0
+tags	tégs	0	0
+nvda	NVDA	0	0
+name	nêime	0	0
+game	guêime	0	0
+file	fáiou	0	2
+Issues	íchuos	0	0
+notifications	notifiquêichans	0	2
+create	criêite	0	0
+homepage	rome peid	0	0
+navigation	naviguêichan	0	2
+privacy	práivãci	0	2
+package	péked	0	0
+languages	lênguueds	0	2
+language	lênguued	0	2
+readme	ridme	0	2
+about	abált	0	2
+commit	cumit	0	2
+user	iúser	0	2
+users	iúsers	0	2
+account	ackáunt	0	2
